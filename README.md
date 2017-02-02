@@ -88,6 +88,11 @@
   </tr>
 
   <tr>
+    <td>table</td>
+    <td>ta</td>
+  </tr>
+
+  <tr>
     <td>videoinput</td>
     <td>vi</td>
   </tr>
