@@ -146,7 +146,7 @@ Loop counters are excempt from Hungarian notation
 
 # When to Use Hungarian Notation?
 
-For small scripts or projects, Hungarian notaion is most likely overkill.  For large projects with multiple contributors, that rely on many classes (e.g., everything is not a `double`), Hungarian notaion can be useful.
+For small scripts or projects, Hungarian notaion is likely overkill.  For large projects with multiple contributors, that rely on many classes (e.g., everything is not a `double`), Hungarian notaion can be useful.
 
 # Custom Classes
 
@@ -156,8 +156,8 @@ If you use OOP for a MATLAB project, feel free to come up with your own Hungaria
 
 Hungarian notation lets you define two things with the variable name:
 
- 1. the MATLAB class 
- 2. the thing the variable represents
+1. the MATLAB class 
+2. the thing the variable represents
 
 For example, “u8BeveragesConsumed" declaratively says two things:
 1. this variable represents beverages that have been consumed
