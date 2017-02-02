@@ -142,11 +142,11 @@ In scenarios where the class of each element of the cell is the same, a compound
 
 # Loop Counters
 
-k, m, p, q (loop counters are excempt from Hungarian notation)
+Loop counters are excempt from Hungarian notation
 
 # When to Use Hungarian Notation?
 
-For small scripts or projects, Hungarian notaion is most likely overkill.  For large projects with multiple contributors, that involve many types/classes, Hungarian notaion can be a life saver.
+For small scripts or projects, Hungarian notaion is most likely overkill.  For large projects with multiple contributors, that rely on many classes (e.g., everything is not a `double`), Hungarian notaion can be useful.
 
 # Custom Classes
 
