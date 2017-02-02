@@ -4,7 +4,7 @@
 
 * MATLAB IDE is not good about type hinting.  
 * It is often difficult to tell if something is a `char`, a `cell`, a `double`, an `int8`, etc.  
-* Hungarian makes it possible to see variable type/class at a glance.
+* Hungarian makes it possible to see the class of a variable at a glance.
 
 # Hungarian Prefixes
 
