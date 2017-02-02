@@ -109,7 +109,7 @@
 `i16Val = int16(1234);`
 
 ## double
-`dVal = 20;`
+`dVal = 20.4;`
 
 ## logical
 `lIsPressed = true;`
@@ -125,7 +125,7 @@ In this scenario, the MATLAB class of each element of the `cell` is different:
 * `b{2} % double (1x1)`
 * `b{3} % uint8 (1x1)`
 
-In scenarios where the class of each element of the cell is the same, a compound Hungarian prefix can be used to.  E.g., for a “cell of char”, combine the Hungarian prefix for `cell` and `char` to form the compound prefix “cec”, as shown below.
+In scenarios where the class of each element of the cell is the same, a compound Hungarian prefix can be used.  E.g., for a “cell of char”, combine the Hungarian prefix for `cell` and `char` to form the compound prefix “cec”, as shown below.
 
 ## cell of char
 `cecNames = {'jane', 'chris', 'rachel'}`
