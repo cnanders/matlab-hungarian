@@ -162,7 +162,7 @@ Hungarian notation lets you define two things with the variable name:
 For example, “u8BeveragesConsumed" declaratively says two things:
 
 1. this variable represents beverages that have been consumed
-2. it is a `uint8` MATLAB class. The class immediatly informs the reader that half-finished beverages cannot be accounted for since the class `uint8` does not support it. 
+2. it is a `uint8` MATLAB class. The class immediatly informs the reader that half-finished beverages cannot be accounted for since the class `uint8` does not support non-integers. 
 
 
 
