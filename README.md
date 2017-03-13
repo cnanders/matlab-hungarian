@@ -145,7 +145,7 @@ In scenarios where the class of each element of the cell is the same, a compound
 		'cLicense', '2x33fy7' ...
 	);
 
-Fields / keys of structures use the Hungarian prefixe associated with the class of their value, as shown above
+Fields / keys of structures use the Hungarian prefix associated with the class of their value, as shown above.
 
 # Loop Counters
 
